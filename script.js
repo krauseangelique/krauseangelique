@@ -1,0 +1,1 @@
+/* JS code d'animation */
