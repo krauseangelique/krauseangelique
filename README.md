@@ -18,7 +18,7 @@ I'm currently learning in
 - 💬 Ask me about Sirius environment. I'm glad to infor you
 - 📫 How to reach me: You can send me on angeliquekrause30@gmail.com
 - 😄 Pronouns: ange
-- ⚡ Fun fact: I have been skating since I was 2 years old
+- ⚡ Fun fact: I started skating at 2 years old
 
 > credited by Lucas Ielli and Tanya Leenders
 
