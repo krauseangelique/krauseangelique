@@ -10,12 +10,13 @@ Jean-Pierre Albertal
 ### Where did i study ?
 I'm currently learning in
 [Sirius School](https://siriushub.be)
+and also at night in [Saint-Laurent ISL Liège](https://www.isl.be/) to become WebDeveloper
 
 - 🔭 I’m working on some exercices to learn Terminal 
-- 🌱 I’m learning REACT
-- 👯 Still learning HTML and CSS 
-- 🤔 I’m looking for help with functions in JS
-- 💬 Ask me about Sirius environment. I'm glad to infor you
+- 🌱 I’m learning SYMFONY
+- 👯 Still deepen knowledge of HTML and CSS 
+- 🤔 I’m learning functions in JS
+- 💬 Ask me about Sirius environment. I'm glad to inform you
 - 📫 How to reach me: You can send me on angeliquekrause30@gmail.com
 - 😄 Pronouns: ange
 - ⚡ Fun fact: I started skating at 2 years old
